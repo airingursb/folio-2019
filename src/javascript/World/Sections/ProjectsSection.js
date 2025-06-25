@@ -178,7 +178,7 @@ export default class ProjectsSection
                 ]
             },
             {
-                name: 'Madbox',
+                name: 'GitHub',
                 imageSources:
                 [
                     './models/projects/madbox/slideA.jpg',
@@ -188,7 +188,7 @@ export default class ProjectsSection
                 floorTexture: this.resources.items.projectsMadboxFloorTexture,
                 link:
                 {
-                    href: 'https://madbox.io',
+                    href: 'https://github.com/airingursb',
                     x: - 4.8,
                     y: - 4,
                     halfExtents:
@@ -204,7 +204,7 @@ export default class ProjectsSection
                 ]
             },
             {
-                name: 'Scout',
+                name: 'Blog',
                 imageSources:
                 [
                     './models/projects/scout/slideA.jpg',
@@ -214,7 +214,7 @@ export default class ProjectsSection
                 floorTexture: this.resources.items.projectsScoutFloorTexture,
                 link:
                 {
-                    href: 'https://fromscout.com',
+                    href: 'https://blog.ursb.me',
                     x: - 4.8,
                     y: - 2,
                     halfExtents:

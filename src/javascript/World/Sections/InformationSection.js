@@ -89,19 +89,19 @@ export default class InformationSection
         // Options
         this.links.options = [
             {
-                href: 'https://twitter.com/bruno_simon/',
-                labelTexture: this.resources.items.informationContactTwitterLabelTexture
-            },
-            {
-                href: 'https://github.com/brunosimon/',
+                href: 'https://github.com/airingursb',
                 labelTexture: this.resources.items.informationContactGithubLabelTexture
             },
             {
-                href: 'https://www.linkedin.com/in/simonbruno77/',
+                href: 'https://weibo.com/u/2696578192',
+                labelTexture: this.resources.items.informationContactTwitterLabelTexture
+            },
+            {
+                href: 'https://www.zhihu.com/people/airing',
                 labelTexture: this.resources.items.informationContactLinkedinLabelTexture
             },
             {
-                href: 'mailto:simon.bruno.77@gmail.com',
+                href: 'https://t.me/airingchannel',
                 labelTexture: this.resources.items.informationContactMailLabelTexture
             }
         ]
